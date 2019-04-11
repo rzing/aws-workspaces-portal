@@ -9,6 +9,6 @@ window._config = {
         // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     },
     approval: {
-        email: 'Ramandeep.Singh@capgemini.com'
+        email: 'ramandeep.singh@capgemini.com'
     }
 };
