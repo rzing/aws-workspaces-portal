@@ -123,7 +123,7 @@
                     "Timer": {
                         "Type": "Schedule",
                         "Properties": {
-                            "Schedule": "rate(1 minutes)"
+                            "Schedule": "rate(1 minute)"
                         }
                     }
                 }
