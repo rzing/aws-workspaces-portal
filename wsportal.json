@@ -14,27 +14,27 @@
             "MaxLength": "80",
             "AllowedPattern": "[A-Za-z0-9-]+",
             "ConstraintDescription": "Malformed input parameter. AppName must only contain upper and lower case letters, numbers, and -.",
-            "Default": "wsPortal"
+            "Default": "Capgemini Workspace Portal"
         },
         "PortalEmail": {
             "Type": "String",
             "Description": "Address from which emails will be sent from to approvers.",
-            "Default": "approval@roundtower.io"
+            "Default": "portaladmin@apiwhiz.com"
         },
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default": "earl@eeg3.net"
+            "Default": "Ramandeep.Singh@capgemini.com"
         },
         "DirectoryServicesId": {
             "Type": "String",
             "Description": "Directory Services ID configured within Amazon WorkSpaces.",
-            "Default": "d-90672a878e"
+            "Default": "d-92672f2397"
         },
         "ApprovedDomain": {
             "Type": "String",
             "Description": "Approved email domain that can sign up for Portal access.",
-            "Default": "eeg3.net"
+            "Default": "capgemini.com"
         }
     },
     "Resources": {
