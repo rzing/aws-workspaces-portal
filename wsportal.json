@@ -24,7 +24,7 @@
         "ApproverEmail": {
             "Type": "String",
             "Description": "Email address that will receive WorkSpace Creation approval requests.",
-            "Default": "Ramandeep.Singh@capgemini.com"
+            "Default": "ramandeep.singh@capgemini.com"
         },
         "DirectoryServicesId": {
             "Type": "String",
