@@ -19,7 +19,7 @@
         "PortalEmail": {
             "Type": "String",
             "Description": "Address from which emails will be sent from to approvers.",
-            "Default": "portaladmin@apiwhiz.com"
+            "Default": "ramandeep.singh@capgemini.com"
         },
         "ApproverEmail": {
             "Type": "String",
